@@ -38,6 +38,9 @@
   <a href="https://github.com/Jainethin-M?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Repositories-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://jai-project-manager.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Project-1f2937?style=for-the-badge&logo=rocket&logoColor=white"/>
+  </a>
 </p>
 
 ---
